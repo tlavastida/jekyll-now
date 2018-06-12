@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a PhD Student in Algorithms, Combinatorics, and Optimization at Carnegie Mellon University.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My main research interests are algorithms in the "Massively Parallel Method of computation" as well as online and approximation algorithms. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tlavastida@gmail.com](mailto:tlavastida@gmail.com)
