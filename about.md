@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a PhD Student in Algorithms, Combinatorics, and Optimization at Carnegie Mellon University.
 
-My main research interests are algorithms in the "Massively Parallel Method of computation" as well as online and approximation algorithms. 
+My main research interests are at the intersection of Operations Research and Algorithm design.
 
 ### Contact me
 
