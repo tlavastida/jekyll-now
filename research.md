@@ -14,5 +14,5 @@ See this page for a list of publications and other research related things.
 
 ## Talks
 
-1. Online Load Balancing via Learned Weights ([slides here]("images/MAPSP_Slides_v2.pdf"))  
+1. Online Load Balancing via Learned Weights ([slides here](tlavastida.github.io/images/MAPSP_Slides_v2.pdf))  
     in **Models and Algorithms for Planning and Scheduling Problems 2019**([MAPSP 2019](http://sbe.maastrichtuniversity.nl/mapsp2019/))
